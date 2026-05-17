@@ -9,9 +9,9 @@
 
 TestMu AI is the world's first fully autonomous Agentic AI Quality Engineering Platform, enabling you to run your Appium Pytest tests at scale with intelligent automation, real-time insights, and seamless CI/CD integration.
 
-Run Appium Python Pytest tests on TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) with full support for mobile app automation.
+Run Appium Python Pytest tests on TestMu AI (Formerly LambdaTest) with full support for mobile app automation.
 
-- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly TestMu AI (Formerly LambdaTest)).
+- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
 ## Running Tests
@@ -23,15 +23,15 @@ cd tests
 pytest test.py
 ```
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Community
+## TestMu AI (Formerly LambdaTest) Community
 
 Connect with testers and developers in the [TestMu AI Community](https://community.testmuai.com/). Ask questions, share what you are building, and discuss best practices in test automation and DevOps.
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Certifications
+## TestMu AI (Formerly LambdaTest) Certifications
 
 Earn free [TestMu AI Certifications](https://www.testmuai.com/certifications/) for testers, developers, and QA engineers. Validate your skills in Selenium, Cypress, Playwright, Appium, Espresso and more. Industry-recognized, shareable on LinkedIn, and built by practitioners, not marketers.
 
-## Learning Resources by TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
+## Learning Resources by TestMu AI (Formerly LambdaTest)
 
 Learn modern testing through tutorials, guides, videos, and weekly updates:
 
